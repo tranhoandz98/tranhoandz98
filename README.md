@@ -1,5 +1,4 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/tranhoandz98"><img src="https://api.daily.dev/devcards/07068fa00c1245228b30667308293992.png?r=m60" width="400" alt="Van Hoan Tran's Dev Card"/></a>
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/tranhoandz98/tranhoandz98/blob/develop/devcard.svg" width="400" alt="Van Hoan Tran's Dev Card"/></a>
 <!--
 **tranhoandz98/tranhoandz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

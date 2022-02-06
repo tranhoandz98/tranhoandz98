@@ -3,9 +3,9 @@
 <table>
 <tr>
   <td valign="center">
-    🌱 I am currently learning **PHP** and also interested in **Web Development**.</br>
-    🎯 My Goal is to Contribute to as many **open source project** as possible.</br>
-    ✨ I love to create different types of **contents**.</br>
+    🌱 I am currently learning <b>PHP</b> and also interested in <b>Web Development</b>.</br>
+    🎯 My Goal is to Contribute to as many <b>open source project</b> as possible.</br>
+    ✨ I love to create different types of  <b>contents</b>.</br>
 <td >
     <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/tranhoandz98/tranhoandz98/blob/develop/devcard.svg" width="400" alt="Van Hoan Tran's Dev Card"/></a>
   </td>

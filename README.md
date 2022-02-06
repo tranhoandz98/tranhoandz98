@@ -1,18 +1,5 @@
-## Hi, I'm Tran Van Hoan 👋
-<!--
-**tranhoandz98/tranhoandz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# About me
+# Hi, I'm Tran Van Hoan 👋
+## About me
 <table>
 <tr>
   <td valign="center">
@@ -29,13 +16,29 @@ Here are some ideas to get you started:
 ## Activity 🖥️
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tranhoandz98&theme=dracula&hide_border=true)
 
-## Connect me
-<a href="https://www.facebook.com/tranhoan.dz" target="_blank"><img src="./facebook.png" alt="facebook"></img></a>
-<a href="https://www.youtube.com/channel/UCrm7viM-jCm4RaCKYg6-JAQ" target="_blank"><img src="./youtube.png" alt="youtube"></img></a>
-<a href="https://www.instagram.com/hoantv___/" target="_blank"><img src="./instagram.png" alt="instagram"></img></a>
-<a href="https://www.linkedin.com/in/hoan-tran-van-b5344a1a2/" target="_blank"><img src="./linkedin.png" alt="linkedin"></img></a>
-<a href="https://www.tiktok.com/@vanhoantran508" target="_blank"><img src="./tik-tok.png" alt="tik-tok"></img></a>
+## Connect with me 🤙
+<a href="https://www.facebook.com/tranhoan.dz" target="_blank"><img width="30px" src="./asset/image/facebook.png" alt="facebook"></img></a>
+<a href="https://www.youtube.com/channel/UCrm7viM-jCm4RaCKYg6-JAQ" target="_blank"><img width="30px" src="./asset/image/youtube.png" alt="youtube"></img></a>
+<a href="https://www.instagram.com/hoantv___/" target="_blank"><img width="30px" src="./asset/image/instagram.png" alt="instagram"></img></a>
+<a href="https://www.linkedin.com/in/hoan-tran-van-b5344a1a2/" target="_blank"><img width="30px" src="./asset/image/linkedin.png" alt="linkedin"></img></a>
+<a href="https://www.tiktok.com/@vanhoantran508" target="_blank"><img width="30px" src="./asset/image/tik-tok.png" alt="tik-tok"></img></a>
 
+## Technologies ⚙️
+### Languages ✍️
+<img src="./asset/image/html.png" width="30px" alt="html5"></img>
+<img src="./asset/image/css-3.png" width="30px" alt="css3"></img>
+<img src="./asset/image/sass.png" width="30px" alt="sass"></img>
+<img src="./asset/image/js.png" width="30px" alt="javascript"></img>
+<img src="./asset/image/react.png" width="30px" alt="react"></img>
+<img src="./asset/image/php.png" width="30px" alt="php"></img>
+
+### Devops & Cloud Tools 🛠️
+<img src="./asset/image/vscode.png" width="30px" alt="vscode"></img>
+<img src="./asset/image/github.png"  width="30px" alt="github"></img>
+<img src="./asset/image/gitlab.png" width="30px" alt="gitlab"></img>
+<img src="./asset/image/postman.png" width="30px" alt="postman"></img>
+<img src="./asset/image/adobe-photoshop.png" width="30px" alt="adobe-photoshop"></img>
+<img src="./asset/image/navicat.png" width="30px" alt="navicat"></img>
 ## Stats 📈
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tranhoandz98&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="tranhoandz98" /> 
@@ -43,10 +46,8 @@ Here are some ideas to get you started:
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tranhoandz98&theme=highcontrast&hide_border=true" alt="tranhoandz98" />
 </p>
 
-
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
 ## Suprort me 💰
  <a href="https://www.buymeacoffee.com/tranhoandz">
   <img src="https://c.tenor.com/Is0ELiJnoU0AAAAi/buymeacoffee-button.gif" alt=" Buy me a coffee ☕️ tranhoandz98" target="_blank">

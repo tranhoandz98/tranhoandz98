@@ -1,4 +1,4 @@
-### Hi, I'm Tran Van Hoan 👋
+## Hi, I'm Tran Van Hoan 👋
 <!--
 **tranhoandz98/tranhoandz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# About me
 <table>
 <tr>
   <td valign="center">
@@ -28,6 +29,13 @@ Here are some ideas to get you started:
 ## Activity 🖥️
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tranhoandz98&theme=dracula&hide_border=true)
 
+## Connect me
+<a href="https://www.facebook.com/tranhoan.dz" target="_blank"><img src="./facebook.png" alt="facebook"></img></a>
+<a href="https://www.youtube.com/channel/UCrm7viM-jCm4RaCKYg6-JAQ" target="_blank"><img src="./youtube.png" alt="youtube"></img></a>
+<a href="https://www.instagram.com/hoantv___/" target="_blank"><img src="./instagram.png" alt="instagram"></img></a>
+<a href="https://www.linkedin.com/in/hoan-tran-van-b5344a1a2/" target="_blank"><img src="./linkedin.png" alt="linkedin"></img></a>
+<a href="https://www.tiktok.com/@vanhoantran508" target="_blank"><img src="./tik-tok.png" alt="tik-tok"></img></a>
+
 ## Stats 📈
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tranhoandz98&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="tranhoandz98" /> 
@@ -41,7 +49,7 @@ Here are some ideas to get you started:
 
 ## Suprort me 💰
  <a href="https://www.buymeacoffee.com/tranhoandz">
-  <img src="https://c.tenor.com/Is0ELiJnoU0AAAAi/buymeacoffee-button.gif" alt=" Buy me a coffee ☕️ tranhoandz98">
+  <img src="https://c.tenor.com/Is0ELiJnoU0AAAAi/buymeacoffee-button.gif" alt=" Buy me a coffee ☕️ tranhoandz98" target="_blank">
 </img>
 </a>
 

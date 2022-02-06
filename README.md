@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 <table>
 <tr>
   <td valign="center">
-    🌱 I am currently learning **PHP** and also interested in **Web Development**.
-    🎯 My Goal is to Contribute to as many **open source project** as possible.
-    ✨ I love to create different types of **contents**.
+    🌱 I am currently learning **PHP** and also interested in **Web Development**.</br>
+    🎯 My Goal is to Contribute to as many **open source project** as possible.</br>
+    ✨ I love to create different types of **contents**.</br>
 <td >
-# this is my daily.dev card, you can edit this accordingly
     <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/tranhoandz98/tranhoandz98/blob/develop/devcard.svg" width="400" alt="Van Hoan Tran's Dev Card"/></a>
   </td>
 

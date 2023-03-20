@@ -17,9 +17,9 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tranhoandz98&theme=dracula&hide_border=true)
 
 ## Connect with me 🤙
-<a href="https://www.facebook.com/tranhoan.dz" target="_blank"><img width="30px" src="./asset/image/facebook.png" alt="facebook"></img></a>
+<a href="https://www.facebook.com/tranhoan.dz9" target="_blank"><img width="30px" src="./asset/image/facebook.png" alt="facebook"></img></a>
 <a href="https://www.youtube.com/channel/UCrm7viM-jCm4RaCKYg6-JAQ" target="_blank"><img width="30px" src="./asset/image/youtube.png" alt="youtube"></img></a>
-<a href="https://www.instagram.com/hoantv___/" target="_blank"><img width="30px" src="./asset/image/instagram.png" alt="instagram"></img></a>
+<a href="https://www.instagram.com/h.tv.98" target="_blank"><img width="30px" src="./asset/image/instagram.png" alt="instagram"></img></a>
 <a href="https://www.linkedin.com/in/hoan-tran-van-b5344a1a2/" target="_blank"><img width="30px" src="./asset/image/linkedin.png" alt="linkedin"></img></a>
 <a href="https://www.tiktok.com/@vanhoantran508" target="_blank"><img width="30px" src="./asset/image/tik-tok.png" alt="tik-tok"></img></a>
 

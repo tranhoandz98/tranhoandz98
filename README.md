@@ -14,7 +14,7 @@
 </table>
 
 ## Activity 🖥️
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tranhoandz98&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tranhoandz98)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Connect with me 🤙
 <a href="https://www.facebook.com/tranhoan.dz9" target="_blank"><img width="30px" src="./asset/image/icon/facebook.png" alt="facebook"></img></a>

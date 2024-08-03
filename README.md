@@ -1,5 +1,6 @@
 # Hi, I'm Tran Van Hoan 👋
-## <a href="https://portfolio-dev-htv.vercel.app/" target="_blank">Portfolio</a>
+## Portfolio 
+<a href="https://portfolio-dev-htv.vercel.app/" target="_blank">https://portfolio-dev-htv.vercel.app</a>
 
 ## About me
 <table>
